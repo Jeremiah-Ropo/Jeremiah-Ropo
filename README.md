@@ -15,6 +15,7 @@ I'm a TypeScript Developer. I'm passionate about sharing knowledge, web developm
 
 ---
 
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jeremiah-Ropo&show_icons=true&include_all_commits=true&hide_border=true" alt="Jeremiah-Ropo's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremiah-Ropo&langs_count=8&layout=compact&hide_border=true" alt="Jeremiah-Ropo's GitHub stats" /> |
 | ------------- | ------------- |
 
