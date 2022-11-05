@@ -1,10 +1,10 @@
 ## Hello there, Welcome to my GitHub Page 👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-myportfolio-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://jeremiah-portfolio.netlify.app)](https://jeremiah-portfolio.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-Jeremiah_Patrick-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremiah-patrick-338aa81b1)](https://www.linkedin.com/in/jeremiah-patrick-338aa81b1) [![Twitter Badge](https://img.shields.io/badge/-@Jerry0x8d7-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Jerry0x8d7)](https://twitter.com/Jerry0x8d7)
+[![Linkedin Badge](https://img.shields.io/badge/-Jeremiah_Patrick-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremiah-patrick-338aa81b1)](https://www.linkedin.com/in/jeremiah-patrick-338aa81b1) [![Website Badge](https://img.shields.io/badge/-myportfolio-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://jeremiah-portfolio.netlify.app)](https://jeremiah-portfolio.netlify.app) [![Twitter Badge](https://img.shields.io/badge/-@jerry0x8d7-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Jerry0x8d7)](https://twitter.com/Jerry0x8d7)
 
 I'm a TypeScript Developer. I'm passionate about sharing knowledge, web development, cloud engineering and contributing to open source. 
 
-**Here's a quick summary about me**:
+**Here's a quick summary about me**
 
 - 😊 Pronouns: He/him
 - 💡 Fun Fact: It is customary here to not look into someone's eyes. (It's a form of disrespect in Nigeria).
