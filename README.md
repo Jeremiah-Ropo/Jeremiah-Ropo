@@ -11,7 +11,7 @@ I'm a TypeScript Developer. I'm passionate about sharing knowledge, web developm
 - 🌱 I’m learning and actively good with TypeScript and JavaScript.
 - 😊 I’m interested in open source projects, side-gig, and mid-level job opportunities.
 - 💼 Job interests: Backend Developer (Mid level).
-- 📫 You can [view my portfolio/resume](https://jeremiah-portfolio.netlify.app/resume) and Contact Me by emailing oluwafiropojeremiah59@gamil.com
+- 📫 You can [view my portfolio/resume](https://jeremiah-portfolio.netlify.app/index.html#about) and Contact Me by emailing [oluwafiropojeremiah59@gamil.com]
 
 ---
 
