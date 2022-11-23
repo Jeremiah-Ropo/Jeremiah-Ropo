@@ -10,7 +10,7 @@ I'm a TypeScript Developer. I'm passionate about sharing knowledge, web developm
 - 💡 Fun Fact: It is customary here to not look into someone's eyes. (It's a form of disrespect in Nigeria).
 - 🌱 I’m learning and actively good with TypeScript and JavaScript.
 - 😊 I’m interested in open source projects, side-gig, and mid-level job opportunities.
-- 💼 Job interests: Backend Developer (Mid level).
+- 💼 Job interests: Backend Developer.
 - 📫 You can [view my portfolio/resume](https://jeremiah-portfolio.netlify.app/index.html#about) and Contact Me by emailing [patrickjerry59@yahoo.com]
 
 ---
