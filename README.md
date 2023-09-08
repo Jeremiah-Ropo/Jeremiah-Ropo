@@ -13,7 +13,7 @@ Over the years, I've acquired quality experience in implementing modern software
 - 🌱 I’m learning and actively good with TypeScript and JavaScript.
 - 😊 I’m interested in open source projects, side-gig, and job opportunities(jobs between Jnr - Mid-level).
 - 💼 Job interests: Backend Engineer/Developer.
-- 📫 You can [view my website about me](https://jeremiah-portfolio.netlify.app/index.html#about) and [resume](https://docs.google.com/document/d/1BoqJBkS0oS-BQ3trP84xC9JzwthsHChcwITlvLF0yBk/edit?usp=sharing) also my email address [patrickjerry59@yahoo.com]
+- 📫 You can [view my website about me](https://jeremiah-portfolio.netlify.app/index.html#about) and [resume](https://docs.google.com/document/d/1K3-uQ71ZpTR2dJfTxKvkBLLxt7NV5NvI/edit?usp=sharing&ouid=116530182543120763732&rtpof=true&sd=true) also my [email](patrickjeremiah00@gmail.com) address 
 
 ---
 
