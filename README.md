@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Jeremiah_Patrick-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremiah-patrick-338aa81b1)](https://www.linkedin.com/in/jeremiah-patrick-338aa81b1) [![WhatsApp Badge](https://img.shields.io/badge/-whatsapp-green?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://wa.me/2348109992122)](https://wa.me/2348109992122) [![Twitter Badge](https://img.shields.io/badge/-@jerry0x8d7-blue?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/Jerry0x8d7)](https://twitter.com/Jerry0x8d7)
 
-A proficient and detailed-oriented Nodejs Backend Engineer, with 3+ years experience as a backend engineer. Having clear logical mind with a practical and optimistic approach to problem-solving with drive to see things in their complete state. 
+A proficient and detailed-oriented Nodejs Backend Engineer, with 4+ years experience as a backend engineer. Having clear logical mind with a practical and optimistic approach to problem-solving with drive to see things in their complete state. 
 
 Over the years, I've acquired quality experience in implementing modern software architecture/design, particularly web services, RESTful APIs, microservice architecture, and monolithic architecture e.t.c. In all, I love working with team whose emphasis on industry best practices are prioritized.
 
