@@ -13,7 +13,7 @@ Over the years, I've acquired quality experience in implementing modern software
 - 🌱 I’m learning and actively good with TypeScript and JavaScript and Python.
 - 😊 I’m interested in open source projects, side-gig, and job opportunities.
 - 💼 Job interests: Nodejs or Nestjs or Python(Flask/Django) Backend Engineer.
-- 📫 You can view my [resume](https://docs.google.com/document/d/1K3-uQ71ZpTR2dJfTxKvkBLLxt7NV5NvI/edit?usp=sharing&ouid=116530182543120763732&rtpof=true&sd=true) and also reach out to on my [email](patrickjeremiah00@gmail.com) address.
+- 📫 You can view my [resume](https://docs.google.com/document/d/1K3-uQ71ZpTR2dJfTxKvkBLLxt7NV5NvI/edit?usp=sharing&ouid=116530182543120763732&rtpof=true&sd=true) and also reach out to on my [email](mailto:patrickjeremiah00@gmail.com) address.
 
 ---
 
